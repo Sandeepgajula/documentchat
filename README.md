@@ -1,9 +1,1 @@
-# documentchat
-
-#install modules:
-
-pip install -r requirements.txt
-
-#run:
-
-streamlit run app.py
+# OS LAB Programs written in C 
